@@ -103,4 +103,4 @@ Makefile zawiera trzy główne reguły:
 2. Postępuj zgodnie z instrukcjami uruchomienia dla każdego zadania.
 
 ## Autor
-Twoje Imię i Nazwisko
+Arkadiusz Kubiszewski
