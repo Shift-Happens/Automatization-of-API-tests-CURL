@@ -14,6 +14,7 @@ cw_03
 ├── zadanie_2
 │ ├── app.py
 │ ├── test_app.py
+│ ├── requirements.txt
 │ └── Makefile
 └── README.md
 ```
@@ -41,7 +42,6 @@ Test 2: FAILED - Response: ...
 
 ### Pliki
 - `api_test.py`: Skrypt do testowania API.
-- `README.md`: Dokumentacja skryptu.
 
 ## Zadanie 2: Automatyzacja procesów z wykorzystaniem Makefile
 
@@ -75,7 +75,6 @@ Ten Makefile automatyzuje procesy testowania i uruchamiania aplikacji w Pythonie
 - `app.py`: Prosta aplikacja w Pythonie.
 - `test_app.py`: Testy jednostkowe dla aplikacji.
 - `Makefile`: Makefile do automatyzacji procesów.
-- `README.md`: Dokumentacja Makefile.
 
 ## Dokumentacja
 
