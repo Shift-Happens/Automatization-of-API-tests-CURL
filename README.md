@@ -7,6 +7,7 @@ To repozytorium zawiera rozwiązania dwóch zadań z Listy 3:
 
 ## Struktura Projektu
 
+```
 cw_03
 ├── zadanie_1
 │ ├── api_test.py
@@ -17,6 +18,7 @@ cw_03
 │ ├── Makefile
 │ └── README.md
 └── README.md
+```
 
 ## Zadanie 1: Automatyzacja testów API z wykorzystaniem curl
 
