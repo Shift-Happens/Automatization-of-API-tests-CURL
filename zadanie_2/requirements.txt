@@ -1,1 +1,1 @@
-requests==2.25.1
+requests==2.25.1 # to tylko placeholder, z uwagi, że unittests to biblioteka wbudowana w pythona
