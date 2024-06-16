@@ -10,13 +10,11 @@ To repozytorium zawiera rozwiązania dwóch zadań z Listy 3:
 ```
 cw_03
 ├── zadanie_1
-│ ├── api_test.py
-│ └── README.md
+│ └── api_test.py 
 ├── zadanie_2
 │ ├── app.py
 │ ├── test_app.py
-│ ├── Makefile
-│ └── README.md
+│ └── Makefile
 └── README.md
 ```
 
