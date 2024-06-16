@@ -115,6 +115,31 @@ Ten Makefile automatyzuje procesy testowania i uruchamiania aplikacji w Pythonie
 - `test_app.py`: Testy jednostkowe dla aplikacji.
 - `Makefile`: Makefile do automatyzacji procesów.
 
+###Kod
+
+app.py
+```
+def hello():
+    return "Hello, World!"
+
+if __name__ == "__main__":
+    print(hello())
+```
+
+test_app.py
+```
+import unittest
+from app import hello
+
+class TestApp(unittest.TestCase):
+
+    def test_hello(self):
+        self.assertEqual(hello(), "Hello, World!")
+
+if __name__ == "__main__":
+    unittest.main()
+```
+
 ## Dokumentacja
 
 ### Zadanie 1: api_test.py
